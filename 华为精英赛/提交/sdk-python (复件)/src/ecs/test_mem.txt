@@ -1,0 +1,10 @@
+47
+flavor1 2
+flavor2 9
+flavor3 8
+flavor4 3
+flavor5 25
+
+2
+1 flavor4 3 flavor5 25 
+2 flavor1 2 flavor2 9 flavor3 8 
